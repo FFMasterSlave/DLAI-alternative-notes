@@ -11,4 +11,4 @@ Consider these slides as a form of support for your learning.
 - these are student notes made for students, so there may be errors. If in doubt, ask Professor Rodolà, who will surely be able to provide the correct answers.
 - more recent iterations of the course may differ in some topics. If so, always refer to the most recent versions of the slides.
 - the notes are in Italian (sorry). If i see some kind of interest in this work, i may take into consideration to translate them in English.
-- the notes were taken using [Foxit PDF Editor](https://www.foxit.com/it/pdf-reader/) vesrion 2023.2.0.21408, but they should be viewable with other PDF readers as well.
+- the notes were taken using [Foxit PDF Editor](https://www.foxit.com/it/pdf-reader/) vesrion 2023.2.0.21408, but they should be viewable with other PDF readers as well. If not, consider using this, since it is simple, complete and free
